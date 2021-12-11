@@ -1,1 +1,1 @@
-int funzione (char [][20], char []);
+bool res (char [][20], char [], int&);
